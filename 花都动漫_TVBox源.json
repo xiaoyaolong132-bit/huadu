@@ -1,0 +1,14 @@
+{
+  "sites": [
+    {
+      "key": "drpy_js_花都动漫",
+      "name": "花都动漫（播放修复测试版）",
+      "type": 3,
+      "api": "https://weixine.net/js/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./js/花都动漫_drpy2.js"
+    }
+  ]
+}
